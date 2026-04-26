@@ -1,16 +1,16 @@
-# Hi, I'm Emirhan 👋
+# Hi, I'm Emirhan
 
-Software engineer based in Sakarya, Turkey. I build production web applications at Toyota and spend my remaining time prototyping SaaS ideas and algorithmic systems.
+Software engineer based in Sakarya, Turkey. I build internal tooling and web applications at Toyota and spend the rest of my time prototyping SaaS ideas and algorithmic systems.
 
-I care about two things above everything else: **shipping fast** and **not cutting corners doing it.**
+I ship fast without cutting corners. Speed and quality are not a trade-off.
 
 ---
 
 ## What I do
 
-At work I design and build internal tooling and reporting systems — full stack, end to end, ownership at every layer.
+At work: full-stack ownership of internal reporting and tooling systems — Java backend, React frontend, Oracle DB, production-grade.
 
-Outside of work I explore product ideas, study system design, and build things that scratch my own itch. Currently interested in the intersection of **AI, automation, and small software businesses**.
+Outside work: I validate product ideas, study system design, and build things in the AI + automation space. Currently focused on identifying small software problems worth turning into businesses.
 
 ---
 
@@ -36,18 +36,23 @@ Outside of work I explore product ideas, study system design, and build things t
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Tooling**
+**AI & Dev Tooling**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+
+**Infra & Tooling**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-## What I'm focused on
+## On AI-assisted development
 
-- Deepening my understanding of **distributed systems and backend architecture**
-- Validating SaaS ideas with the smallest possible surface area
-- Getting sharper at building things people actually pay for
+In 2026, using AI tooling is table stakes — engineers who don't are slower by default. I use Claude, Claude Code, and Cursor daily: code generation, review, debugging, architecture reasoning. The skill is knowing when to trust the output and when to push back on it.
 
 ---
 
@@ -60,10 +65,8 @@ Outside of work I explore product ideas, study system design, and build things t
 
 ---
 
-## Let's connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhancebiroglu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-cebiroglu/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/EmirhanCeb)
 [![Website](https://img.shields.io/badge/Website-emirhancebiroglu.dev-111827?style=flat)](https://emirhancebiroglu.dev)
-
-> Open to conversations about interesting engineering problems, product ideas, and collaborations. Feel free to reach out.
