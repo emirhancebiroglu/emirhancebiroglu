@@ -54,15 +54,15 @@ Outside of work I explore product ideas, study system design, and build things t
 ## GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=emirhan-cebiroglu&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan-cebiroglu&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=emirhancebiroglu&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancebiroglu&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-cebiroglu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhancebiroglu/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/EmirhanCeb)
 [![Website](https://img.shields.io/badge/Website-emirhancebiroglu.dev-111827?style=flat)](https://emirhancebiroglu.dev)
 
