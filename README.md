@@ -75,5 +75,3 @@ In 2026, using AI tooling is table stakes — engineers who don't are slower by 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-cebiroglu/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/EmirhanCeb)
-[![Website](https://img.shields.io/badge/Website-emirhancebiroglu.dev-111827?style=flat)](https://emirhancebiroglu.dev)
